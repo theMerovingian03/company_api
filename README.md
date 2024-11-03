@@ -34,7 +34,6 @@ This project is a basic REST API built with Django and Django Rest Framework (DR
    ```
    python manage.py makemigrations
    python manage.py migrate
-
    ```
 
 5. Create a superuser (for accessing the admin panel):
